@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Widget Showcase",
+  "name": "iOS 14 Widget Showcase",
   "icons": [
     {
       "src": "favicon.ico",
